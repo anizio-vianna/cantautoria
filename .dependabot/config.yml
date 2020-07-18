@@ -13,8 +13,4 @@ update_configs:
           update_type: in_range
     version_requirement_updates: widen_ranges
     
-    backend:
-  name: github
-  repo: anizio-vianna/cantautoria
-  branch: master
-  site_domain: cantautoria.netlify.app
+   
