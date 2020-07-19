@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Isso é um teste para valer agora
+title: Isso é um teste para valer agora sério
 image: /img/fundocamila2-1-.jpg
 heading: Teste mesmo
 subheading: Teste comigo
