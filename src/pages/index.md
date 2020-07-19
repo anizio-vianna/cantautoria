@@ -5,7 +5,7 @@ image: /img/fundocamila2-1-.jpg
 heading: Teste mesmo
 subheading: Teste comigo
 mainpitch:
-  title: Why Kaldi
+  title: Why Kaldi??????
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
