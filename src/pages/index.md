@@ -3,7 +3,7 @@ templateKey: index-page
 title: Isso é um teste
 image: /img/fundocamila2-1-.jpg
 heading: Teste mesmo
-subheading: Support sustainable farming while enjoying a cup
+subheading: Teste comigo
 mainpitch:
   title: Why Kaldi
   description: >
